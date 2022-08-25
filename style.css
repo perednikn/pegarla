@@ -67,7 +67,7 @@ button {
 
 body{
     background-image: url("./paredLadrillo.jpg");
-    background-size: 1300px auto;
+    background-size: cover;
     
     background-repeat: no-repeat;
     display:flex;
